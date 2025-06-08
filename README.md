@@ -76,6 +76,6 @@ Admin can:<br/>
 5. Run ```python main.py``` to start server.
 7. Go to ```localhost/wordpress``` to access the app.
 
-Find more screenshots in the <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/tree/master/screenshots">click here</a>
+Find more screenshots in the <b>screenshots folder</b> Or <a href="https://github.com/surajkakulte188/Investment-Prediction-System/tree/main/screenshots">click here</a>
 
-### :book: Please Go through [Pose_With_Action_HLD2.docx](https://github.com/iNeuron-ai/Pose-with-Action/blob/main/doc/Pose_With_Action_HLD2.docx) for more info.
+### :book: Please Go through [Investment_Prediction_System.docx](https://github.com/iNeuron-ai/Pose-with-Action/blob/main/doc/Pose_With_Action_HLD2.docx) for more info.
