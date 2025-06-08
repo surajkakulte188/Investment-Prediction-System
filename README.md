@@ -78,4 +78,4 @@ Admin can:<br/>
 
 Find more screenshots in the <b>screenshots folder</b> Or <a href="https://github.com/surajkakulte188/Investment-Prediction-System/tree/main/screenshots">click here</a>
 
-### :book: Please Go through [Investment_Prediction_System_Requirements](https://github.com/iNeuron-ai/Pose-with-Action/blob/main/doc/Pose_With_Action_HLD2.docx) for more info.
+### :book: Please Go through [Investment_Prediction_System_Requirements](https://github.com/surajkakulte188/Investment-Prediction-System/blob/main/requirements.txt) for more info.
