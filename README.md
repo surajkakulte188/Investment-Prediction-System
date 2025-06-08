@@ -14,7 +14,7 @@
 
 ## System Description and Functions
 <img src="[https://github.com/surajkakulte188/Investment-Prediction-System/blob/main/screenshots/9-banner.png">
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner2.PNG">
+<img src="https://github.com/surajkakulte188/Investment-Prediction-System/blob/main/screenshots/10-banner2.PNG">
 <img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/11-resuts.png" width="750">
 
 **Admin Creds:** <br/>
